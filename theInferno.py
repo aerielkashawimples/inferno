@@ -1,3 +1,8 @@
+#Copy and paste this code into Idle and run it... unless you want to be a dirty cheater.
+
+
+
+
 questionOneCorrect = 0
 print("Welcome to Hell.") 
 print("First question.")
