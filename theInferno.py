@@ -8,7 +8,7 @@ print("Welcome to Hell.")
 print("First question.")
 while questionOneCorrect == 0:
     print("How many levels of hell are there in Dante's Inferno?")
-    questionOneAnswer = input()
+    questionOneAnswer = raw_input()
     questionOneAnswer = str(questionOneAnswer)
     if str.lower(questionOneAnswer) == "nine":
         print("Correct!")
@@ -22,7 +22,7 @@ questionTwoCorrect = 0
 print("Second question.")
 while questionTwoCorrect == 0:
     print("To which sin is the second circle of Hell dedicated?")
-    questionTwoAnswer = input()
+    questionTwoAnswer = raw_input()
     questionTwoAnswer = str(questionTwoAnswer)
     if str.lower(questionTwoAnswer) == "lust":
         print("Correct!")
@@ -33,7 +33,7 @@ questionThreeCorrect = 0
 print("Third question.")
 while questionThreeCorrect == 0:
     print("At level eight, what famous figure did they meet?")
-    questionThreeAnswer = input()
+    questionThreeAnswer = raw_input()
     questionThreeAnswer = str(questionThreeAnswer)
     if str.lower(questionThreeAnswer) == "pope nicholas iii":
         print("Correct!")
@@ -47,7 +47,7 @@ print("Fourth question.")
 questionFourCorrect = 0
 while questionFourCorrect == 0:
     print("In what year was the first Dante's Inferno movie released?")
-    questionFourAnswer = input()
+    questionFourAnswer = raw_input()
     questionFourAnswer = str(questionFourAnswer)
     if questionFourAnswer == "1911":
         print("Correct!")
@@ -68,7 +68,7 @@ print("Sixth question.")
 questionSixCorrect = 0
 while questionSixCorrect == 0:
     print("What is Virgil's occupation?")
-    questionSixAnswer = input()
+    questionSixAnswer = raw_input()
     if str.lower(questionSixAnswer) == "poet":
         print("Correct!")
         questionSixCorrect = 1
@@ -81,7 +81,7 @@ print("Seventh question")
 questionSevenCorrect = 0
 while questionSevenCorrect == 0:
     print("Dante was an italian, so he was biased against ------, hence their gods in each level")
-    questionSevenAnswer = input()
+    questionSevenAnswer = raw_input()
     if str.lower(questionSevenAnswer) == "greeks":
         print("Correct!")
         questionSevenCorrect = 1
@@ -94,7 +94,7 @@ print("Eighth qustion")
 questionEightCorrect = 0
 while questionEightCorrect == 0:
     print("In Paradiso, what place is defined as the abode of God?")
-    questionEightAnswer = input()
+    questionEightAnswer = raw_input()
     if str.lower(questionEightAnswer) == "empyrean":
         print("Correct!")
         questionEightCorrect = 1
@@ -107,7 +107,7 @@ print("Ninth question")
 questionNineCorrect = 0
 while questionNineCorrect == 0:
     print("Throughout The Divine Comedy, Dante is led by Virgil through the levels of hell, purgatory, and then up to Heaven.  Throughout this journey, they met important figures all the way up to the big man himself; God.  He speaks with guardians and sinners alike and many either represent or tell a moral lesson that we can walk away with.  One of these is not to let your morals be overcome by anger, gluttony, and greed.  Dante is the representation of man's ___ and its need to repent.")
-    questionNineAnswer = input()
+    questionNineAnswer = raw_input()
     if str.lower(questionNineAnswer) == "sin":
           print("Correct!")
           questionNineCorrect = 1
