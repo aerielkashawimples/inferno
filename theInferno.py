@@ -1,6 +1,4 @@
-#Copy and paste this code into Idle and run it... unless you want to be a dirty cheater.
-
-
+#Copy and paste this into a program, but dont look at it unless you want to be a filthy chearter!
 
 
 questionOneCorrect = 0
@@ -58,7 +56,8 @@ print("Fifth question. Getting hot in here!")
 questionFiveCorrect = 0
 while questionFiveCorrect == 0:
     print("Who guides Dante through the circles of hell?")
-    questionFiveAnswer = input()
+    questionFiveAnswer = raw_input()
+    questionFiveAnswer = str(questionFiveAnswer)
     if str.lower(questionFiveAnswer) == "virgil":
         print("Correct!")
         questionFiveCorrect = 1
@@ -117,8 +116,4 @@ while questionNineCorrect == 0:
 for count in range(100):
           print("")
 print("Congratulations and Thank You for playing! Hopefully you have learned much on this journey, or at least had some fun.  Take away from this game that patience is a virtue and the rememberance to spend your time wisely~! For consolidated completion, please send your regards to youdidityoureanerd@gmail.com ;)")
-
-
-          
-                            
 
