@@ -1,3 +1,57 @@
+#do Ctrl A then Ctrl C the paste into idle. Do not look at the code, just run it!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 questionOneCorrect = 0
 print("Welcome back. let's test your memory.") 
 print("First question.")
