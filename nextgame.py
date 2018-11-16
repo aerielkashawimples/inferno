@@ -163,4 +163,5 @@ while questionNineCorrect == 0:
 
 for count in range(100):
           print("")
-print("Congratulations and Thank You for playing! Hopefully you have learned much on this journey, or at least had some fun.  Take away from this game that patience is a virtue and the rememberance to spend your time wisely~! For consolidated completion, please send your regards to youdidityoureanerd@gmail.com ;)")
+print("You made it... i'm surprised... Beware, for he bites.  They bite; in the frostbite, the freezing plight.  A murderous plight, a band of wagon wheels screeching in the snow, they begin to slow, not grow. A murderous party indeed. 
+")
