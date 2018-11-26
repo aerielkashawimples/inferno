@@ -103,7 +103,7 @@ while questionFourCorrect == 0:
 print("Fifth question. Are you sure you want to continue?")
 questionFiveCorrect = 0
 while questionFiveCorrect == 0:
-    print("You are no longer safe... in the last game what was the quiz about?")
+    print("Y̴̨̜͓̮̫͇̘̭̣͌̾̓̿̌̿̽̕ͅo̷͍͗̌̃̑̏̈͌̎̋͝͝ự̶̧̤̗̜̲̞̖̰͎͌͌̀́̾̌̄̆̌ͅ ̶̢̢̧̨͙͈͉͙̰̰͖̫̹̋̽́͆́̎̐̊a̵͑̀̀̾͑͝ͅr̶͕̣̺̀ẹ̷̢̛̙͖̩̯̯̹̬͕̗̇̋̃͊̕͜͝͠ ̸͕̜̤̽n̵͙̖̹̹͍͈̟̻̔̈́̒̒̌͂͜͝o̷̡̘̟̤̳̱̘̓̆̓̂̓̈̎̕ţ̶̠͇̜͈̪̤͓͋ ̴̡̲̞̱̪̻͖͆̿͂̏̾̍̆̆̿̈́̀̆̌͘͠ͅs̷̨̞̳̱̯͕̜̫͚͈̜̞̟̃̅́̀̉͗̊̔̿̕͜͠ą̵̨̛̛̰̩̣̝͖͎͎̦̯͈͙̗̥̒̈̓̀̆́̿̀́̈́f̶͍͖͇̈́̅̒̒̈́́̍̊͝è̸̡͍̼̪̞̣̣̝̹̗͚̭͙́̿ͅ... in the last game what was the quiz about?")
     questionFiveAnswer = raw_input()
     questionFiveAnswer = str(questionFiveAnswer)
     if str.lower(questionFiveAnswer) == "dantes inferno":
@@ -163,5 +163,5 @@ while questionNineCorrect == 0:
 
 for count in range(100):
           print("")
-print("You made it... i'm surprised... Beware, for he bites.  They bite; in the frostbite, the freezing plight.  A murderous plight, a band of wagon wheels screeching in the snow, they begin to slow, not grow. A murderous party indeed. 
+print("You made it... i'm surprised... Beware, for he bites.  They bite; in the frostbite, the freezing plight.  A murderous plight, a band of wagon wheels screeching in the snow, they begin to slow, not grow. A murderous party indeed.
 ")
