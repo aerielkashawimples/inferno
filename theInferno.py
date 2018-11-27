@@ -1,4 +1,4 @@
-#Copy and paste this into a program, but dont look at it unless you want to be a filthy chearter!
+#Copy and paste this into a program, but dont look at it unless you want to be a filthy cheater!
 
 
 questionOneCorrect = 0
