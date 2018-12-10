@@ -163,5 +163,4 @@ while questionNineCorrect == 0:
 
 for count in range(100):
           print("")
-print("You made it... i'm surprised... Beware, for he bites.  They bite; in the frostbite, the freezing plight.  A murderous plight, a band of wagon wheels screeching in the snow, they begin to slow, not grow. A murderous party indeed. What is our name? what is the devil's number? Where are you? put all three together to find the last part let's just hope... you wont die first.
-")
+print("You made it... i'm surprised... Beware, for he bites.  They bite; in the frostbite, the freezing plight.  A murderous plight, a band of wagon wheels screeching in the snow, they begin to slow, not grow. A murderous party indeed. What is our name? what is the devil's number? Where are you? put all three together to find the last part let's just hope... you wont die first.")
